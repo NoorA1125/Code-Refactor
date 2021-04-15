@@ -18,8 +18,8 @@ No installation needed.
 ## Usage 
 This is not an actual application but rather for tests ONLY. <br>
 Please view deployed Git Hub [URL](hhttps://noora1125.github.io/Code-Refactor/)
-<img src="./assets/images/Website-1.png">
-<img src="./assets/images/Website-2.png">
+<img src="./assets/images/website1.png">
+<img src="./assets/images/website2.png">
 
 
 ## License 

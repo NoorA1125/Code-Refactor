@@ -2,7 +2,7 @@
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
-This project's purpose was to refactor a webpage so that the links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines. 
+This project's purpose was to debug the page so that the links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines. 
 
 ## Table of Contents
 * [Installation](#installation)
